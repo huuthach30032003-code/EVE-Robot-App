@@ -1,0 +1,13 @@
+{
+  "name": "eve-robot",
+  "main": "index.html",
+  "window": {
+    "title": "EVE Robot",
+    "toolbar": false,
+    "frame": false,
+    "transparent": true,
+    "width": 600,
+    "height": 700,
+    "always-on-top": true
+  }
+}
